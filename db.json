@@ -34,5 +34,37 @@
     "result_time": "17:30",
     "updated_at": "2023-05-22T04:08:42.341000Z",
     "created_at": "2023-05-22T00:00:00.000000Z"
+  },
+  {
+    "localhost:3000": {
+      "palette": {
+        "background": {
+          "default": "#F2F6FC"
+        },
+        "primary": {
+          "main": "#1C5EA8",
+          "light": "rgba(28, 94, 168, 0.2)"
+        },
+        "info": {
+          "main": "#0676B8",
+          "light": "rgba(6, 118, 184, 0.2)"
+        },
+        "success": {
+          "main": "#36AE7C",
+          "light": "rgba(54, 174, 124, 0.2)"
+        },
+        "warning": {
+          "main": "#F6C113",
+          "light": "rgba(246, 193, 19, 0.2)"
+        },
+        "secondary": {
+          "main": "#EE8824",
+          "light": "#EE882433"
+        },
+        "error": {
+          "main": "#EB5353"
+        }
+      }
+    }
   }
 }
